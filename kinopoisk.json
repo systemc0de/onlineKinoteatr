@@ -1,0 +1,2530 @@
+{
+    "movies": [
+        {
+            "id": 402059,
+            "id_kinopoisk": 596217,
+            "url": "429867-den-truda-2013",
+            "type": "movie",
+            "title": "День труда",
+            "title_alternative": "Labor Day",
+            "tagline": "«Любовь, за которую стоит бороться»",
+            "description": "Одинокая мать укрывает беглого убийцу в своем доме, где живет вместе с сыном. Полиция обшаривает весь городок в поисках преступника, а мать-одиночка, тем временем, узнает о своем госте горькую правду и перестает понимать, что же ей делать.",
+            "year": 2013,
+            "poster": "//images.kinopoisk.cloud/posters/596217.jpg",
+            "trailer": "https://www.youtube.com/embed/gwBONbD2Qow",
+            "age": "зрителям, достигшим 12 лет",
+            "actors": [
+                "Кейт Уинслет",
+                "Джош Бролин",
+                "Гэттлин Гриффит",
+                "Тоби Магуайр",
+                "Том Липински",
+                "Майка Монро",
+                "Кларк Грегг",
+                "Джеймс Ван Дер Бик",
+                "Дж.К. Симмонс",
+                "Брук Смит",
+                "Марианна Шульц",
+                "Сергей Чихачёв",
+                "Никита Сологалов",
+                "Михаил Тихонов",
+                "Полина Ильюшенко"
+            ],
+            "countries": [
+                "США"
+            ],
+            "genres": [
+                "Драма",
+                "Мелодрама"
+            ],
+            "directors": [
+                "Джейсон Райтман"
+            ],
+            "screenwriters": [
+                "Джейсон Райтман",
+                "Джойс Мэйнард"
+            ],
+            "producers": [
+                "Хелен Эстабрук",
+                "Лайан Халфон",
+                "Джейсон Райтман"
+            ],
+            "operators": [
+                "Эрик Стилберг"
+            ],
+            "composers": [
+                "Рольф Кент"
+            ],
+            "painters": [
+                "Стив Сэклад",
+                "Марк Роберт Тейлор",
+                "Дэнни Гликер"
+            ],
+            "editors": [
+                "Дана И. Глауберман"
+            ],
+            "budget": "$18000000",
+            "rating_kinopoisk": "7.4",
+            "rating_imdb": "6.9",
+            "kinopoisk_votes": null,
+            "imdb_votes": null,
+            "fees_world": "$20275812",
+            "fees_russia": null,
+            "premiere_world": "30 августа 2013",
+            "premiere_russia": null,
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/2/2/1/kinopoisk.ru-Labor-Day-2216600.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Labor-Day-2297045.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Labor-Day-2297046.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Labor-Day-2297047.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326160.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326161.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326162.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326163.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326164.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326165.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326166.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326167.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326168.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326169.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326170.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326171.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326172.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326173.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326174.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326175.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326176.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326177.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326178.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Labor-Day-2326179.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/3/kinopoisk.ru-Labor-Day-2331911.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/3/kinopoisk.ru-Labor-Day-2334393.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/5/kinopoisk.ru-Labor-Day-2350168.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": [
+                    "/movie/05040019389f2dd511dac3f64dd7af66/iframe"
+                ],
+                "quality": [
+                    "BluRay"
+                ],
+                "duration": null,
+                "voice": [
+                    "Профессиональный (многоголосый) [Лицензия]"
+                ]
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": [
+                    "/embed/movie/6573"
+                ],
+                "quality": [
+                    "HD (720p)"
+                ],
+                "duration": [
+                    "111 мин. / 01:51"
+                ],
+                "voice": [
+                    "Рус. Дублированный",
+                    "Eng.Original"
+                ]
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 401880,
+            "id_kinopoisk": 575005,
+            "url": "583259-uik-end-2011",
+            "type": "movie",
+            "title": "Уик-энд",
+            "title_alternative": "Weekend",
+            "tagline": "«A (sort of) love story between two guys over a cold weekend in October»",
+            "description": "Вечером в пятницу, после пьяной вечеринки дома со своими друзьями, Рассел отправляется в гей-клуб, один и в возбужденном состоянии. Перед самым закрытием он знакомится с Гленом, но то, что должно было стать свиданием на одну ночь, становится чем-то другим, чем-то особенным. Этот уик-энд они проведут вместе, в барах и спальнях, выпивая алкоголь и принимая наркотики, рассказывая истории и занимаясь сексом,  так эти двое мужчин узнают друг друга. Теперь эта короткая встреча останется с ними на всю жизнь.",
+            "year": 2011,
+            "poster": "//images.kinopoisk.cloud/posters/575005.jpg",
+            "trailer": "https://www.youtube.com/embed/EccvBT31cz4",
+            "age": "зрителям, достигшим 18 лет",
+            "actors": [
+                "Том Каллен",
+                "Крис Нью",
+                "Джонатан Рейс",
+                "Лаура Фриман",
+                "Лорето Мюррэй",
+                "Джонатан Райт",
+                "Сара Чурм",
+                "Воксхолл Джермейн",
+                "Джо Доэрти",
+                "Киран Хардкэсл"
+            ],
+            "countries": [
+                "Великобритания"
+            ],
+            "genres": [
+                "Мелодрама"
+            ],
+            "directors": [
+                "Эндрю Хэй"
+            ],
+            "screenwriters": [
+                "Эндрю Хэй"
+            ],
+            "producers": [
+                "Тристан Голайер",
+                "Сюзанн Ализарт",
+                "Рейчел Даргавел"
+            ],
+            "operators": [
+                "Уршуля Понтикос"
+            ],
+            "composers": [
+                "Джеймс Эдвард Баркер"
+            ],
+            "painters": [
+                "Сара Финлэй"
+            ],
+            "editors": [
+                "Эндрю Хэй"
+            ],
+            "budget": "£120000",
+            "rating_kinopoisk": "7.4",
+            "rating_imdb": "7.6",
+            "kinopoisk_votes": null,
+            "imdb_votes": null,
+            "fees_world": null,
+            "fees_russia": null,
+            "premiere_world": "11 марта 2011",
+            "premiere_russia": null,
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/1/6/2/kinopoisk.ru-Weekend-1623358.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/2/kinopoisk.ru-Weekend-1623361.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/1/kinopoisk.ru-Weekend-1819576.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Weekend-2328934.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Weekend-2328935.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Weekend-2328936.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Weekend-2328937.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Weekend-2328938.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Weekend-2328939.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Weekend-2328940.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/2/kinopoisk.ru-Weekend-2328941.jpg"
+            ],
+            "screenshots": [
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300119.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300120.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300121.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300122.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300123.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300124.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300125.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300126.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300127.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300128.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300129.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300130.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300131.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300132.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300133.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300134.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300135.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300136.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300137.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300138.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300139.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/0/kinopoisk.ru-Weekend-3300140.jpg"
+            ],
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": [
+                    "/embed/movie/13206"
+                ],
+                "quality": [
+                    "HD (720p)"
+                ],
+                "duration": [
+                    "97 мин. / 01:37"
+                ],
+                "voice": [
+                    "Рус. Люб. одноголосый",
+                    "Eng.Original"
+                ]
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 400405,
+            "id_kinopoisk": 596266,
+            "url": "542262-v-dome-2012",
+            "type": "movie",
+            "title": "В доме",
+            "title_alternative": "Dans la maison",
+            "tagline": "«Думаешь, за тобой не интересно подсматривать?»",
+            "description": "Разочаровавшись в своих учениках, учитель благоволит лишь мальчику, сидящему за последней партой и сильно выделяющемуся на фоне остальных. Этот ребенок имеет склонность к подглядыванию и однажды решает написать рассказ о семье своего одноклассника, за которой имеет возможность систематически наблюдать.",
+            "year": 2012,
+            "poster": "//images.kinopoisk.cloud/posters/596266.jpg",
+            "trailer": "https://www.youtube.com/embed/RNsPCTSRwBE",
+            "age": "зрителям, достигшим 16 лет",
+            "actors": [
+                "Фабрис Лукини",
+                "Эрнст Умоер",
+                "Кристин Скотт Томас",
+                "Эмманюэль Сенье",
+                "Дени Меноше",
+                "Бастьен Угетто",
+                "Жан-Франсуа Бальмер",
+                "Иоланда Моро",
+                "Катрин Давенье",
+                "Винсент Шмитт",
+                "Валерий Сторожик",
+                "Николай Быстров",
+                "Ольга Зубкова",
+                "Людмила Шувалова",
+                "Денис Беспалый"
+            ],
+            "countries": [
+                "Франция"
+            ],
+            "genres": [
+                "Триллер",
+                "Мелодрама",
+                "Драма"
+            ],
+            "directors": [
+                "Франсуа Озон"
+            ],
+            "screenwriters": [
+                "Франсуа Озон",
+                "Хуан Майорга"
+            ],
+            "producers": [
+                "Эрик Альтмайер",
+                "Николас Альтмайер",
+                "Клоди Оссар"
+            ],
+            "operators": [
+                "Жером Альмерас"
+            ],
+            "composers": [
+                "Филипп Ромби"
+            ],
+            "painters": [
+                "Арно де Молерон",
+                "Паскаль Легеллек",
+                "Паскалин Шаванн"
+            ],
+            "editors": [
+                "Лор Гердетт"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.4",
+            "rating_imdb": "7.4",
+            "kinopoisk_votes": null,
+            "imdb_votes": null,
+            "fees_world": "$16190771",
+            "fees_russia": "$255000",
+            "premiere_world": "10 сентября 2012",
+            "premiere_russia": "8 ноября 2012",
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/1/9/4/kinopoisk.ru-Dans-la-maison-1944410.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/6/kinopoisk.ru-Dans-la-maison-1966417.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/6/kinopoisk.ru-Dans-la-maison-1966418.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/6/kinopoisk.ru-Dans-la-maison-1966419.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/6/kinopoisk.ru-Dans-la-maison-1966420.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/6/kinopoisk.ru-Dans-la-maison-1966421.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/6/kinopoisk.ru-Dans-la-maison-1966422.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/6/kinopoisk.ru-Dans-la-maison-1966423.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596046.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596047.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596048.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596049.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596050.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596051.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596052.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596053.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596054.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596055.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596056.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596057.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596058.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596059.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596060.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596061.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596062.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596063.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596064.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596065.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596066.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596067.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596068.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596069.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596070.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596071.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/5/9/kinopoisk.ru-Dans-la-maison-2596072.jpg"
+            ],
+            "screenshots": [
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292838.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292839.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292840.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292841.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292842.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292843.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292844.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292845.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292846.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292847.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292848.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292849.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292850.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292851.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292852.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292853.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292854.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292855.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292856.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292857.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292858.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292859.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292860.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292861.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Dans-la-maison-2292862.jpg"
+            ],
+            "videocdn": {
+                "url": [
+                    "/movie/31ebbf5c6377047964a7cd06475a96c6/iframe"
+                ],
+                "quality": [
+                    "BluRay"
+                ],
+                "duration": null,
+                "voice": [
+                    "Дубляж [Лицензия]"
+                ]
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": [
+                    "/embed/movie/7520"
+                ],
+                "quality": [
+                    "HD (720p)"
+                ],
+                "duration": [
+                    "105 мин. / 01:45"
+                ],
+                "voice": [
+                    "Рус. Дублированный"
+                ]
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 399205,
+            "id_kinopoisk": 568696,
+            "url": "49471-neprikasaemye-2011",
+            "type": "movie",
+            "title": "Неприкасаемые",
+            "title_alternative": "Les Lyonnais",
+            "tagline": null,
+            "description": "Детство Эдмонда Видаля прошло в нищете в цыганском таборе. Но он знает, что такое истинные семейные ценности и преданная дружба. Он всегда держит своё слово, даже если даёт его своему врагу. Он верный муж и настоящий друг, готовый всегда помочь в беде. И он не любит проливать кровь зря. Именно он стоял у истоков создания самой известной группировки, которая лихо грабила банки во Франции в начале 70-х",
+            "year": 2011,
+            "poster": "//images.kinopoisk.cloud/posters/568696.jpg",
+            "trailer": "https://www.youtube.com/embed/_--SzYheOU4",
+            "age": "зрителям, достигшим 16 лет",
+            "actors": [
+                "Жерар Ланвен",
+                "Чеки Карио",
+                "Даниэль Дюваль",
+                "Лионель Астье",
+                "Дмитрий Сторож",
+                "Патрик Каталифо",
+                "Франсуа Леванталь",
+                "Франсис Рено",
+                "Валерия Кавалли",
+                "Эстелл Скорник",
+                "Владимир Антоник",
+                "Александр Груздев",
+                "Борис Токарев",
+                "Даниил Эльдаров",
+                "Илья Исаев"
+            ],
+            "countries": [
+                "Франция",
+                "Бельгия"
+            ],
+            "genres": [
+                "Драма",
+                "Криминал"
+            ],
+            "directors": [
+                "Оливье Маршаль"
+            ],
+            "screenwriters": [
+                "Оливье Маршаль",
+                "Эдгар Мари",
+                "Эдмонд Видал"
+            ],
+            "producers": [
+                "Сирил Кольбо-Жюстен",
+                "Жан-Батист Дюпон",
+                "Жереми Бюрдек"
+            ],
+            "operators": [
+                "Дени Руден"
+            ],
+            "composers": [
+                "Эрванн Керморвант"
+            ],
+            "painters": [
+                "Амре Фернандез",
+                "Валери Розанес",
+                "Аньес Фальк"
+            ],
+            "editors": [
+                "Хьюберт Персат",
+                "Рафаэль Уртен"
+            ],
+            "budget": "€18700000",
+            "rating_kinopoisk": "7.4",
+            "rating_imdb": "7",
+            "kinopoisk_votes": null,
+            "imdb_votes": null,
+            "fees_world": "$10249599",
+            "fees_russia": "$170504сборы",
+            "premiere_world": "10 ноября 2011",
+            "premiere_russia": "8 декабря 2011",
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/1/6/9/kinopoisk.ru-Les-Lyonnais-1692414.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/9/kinopoisk.ru-Les-Lyonnais-1692415.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/9/kinopoisk.ru-Les-Lyonnais-1692416.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/9/kinopoisk.ru-Les-Lyonnais-1692417.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/7/3/kinopoisk.ru-Les-Lyonnais-1735586.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/7/3/kinopoisk.ru-Les-Lyonnais-1735587.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/7/3/kinopoisk.ru-Les-Lyonnais-1736027.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/7/3/kinopoisk.ru-Les-Lyonnais-1736028.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/7/3/kinopoisk.ru-Les-Lyonnais-1736029.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/7/3/kinopoisk.ru-Les-Lyonnais-1736030.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/7/3/kinopoisk.ru-Les-Lyonnais-1736031.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/7/3/kinopoisk.ru-Les-Lyonnais-1736032.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/9/kinopoisk.ru-Les-Lyonnais-2290966.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300803.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300804.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300805.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300806.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300807.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300808.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300809.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300810.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300811.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300812.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300813.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/3/0/kinopoisk.ru-Les-Lyonnais-2300814.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": [
+                    "/movie/04f62c14416c44d0178e0c60b78ce33f/iframe"
+                ],
+                "quality": [
+                    "HDRip"
+                ],
+                "duration": null,
+                "voice": [
+                    "Дубляж"
+                ]
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": [
+                    "/embed/movie/16633"
+                ],
+                "quality": [
+                    "HD (720p)"
+                ],
+                "duration": [
+                    "102 мин. / 01:42"
+                ],
+                "voice": [
+                    "Рус. Дублированный",
+                    "Карповский",
+                    "Fr. Original"
+                ]
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 396890,
+            "id_kinopoisk": 568189,
+            "url": "559321-submarina-2010",
+            "type": "movie",
+            "title": "Субмарина",
+            "title_alternative": "Submarine",
+            "tagline": "«Комедия, которая не позволяет принципам встать на пути прогресса»",
+            "description": "Познакомьтесь с Оливером Тейтом  не по годам развитым тинэйджером, неисправимым романтиком и сентиментальным мечтателем, которого никто не воспринимает всерьёз. Главные цели Оливера: сохранить разваливающийся брак своих родителей и лишиться девственности до наступления шестнадцати лет в объятиях девушки мечты.",
+            "year": 2010,
+            "poster": "//images.kinopoisk.cloud/posters/568189.jpg",
+            "trailer": "https://www.youtube.com/embed/kCtuUgM7J5M",
+            "age": "зрителям, достигшим 16 лет",
+            "actors": [
+                "Ноа Тейлор",
+                "Пэдди Консидайн",
+                "Крэйг Робертс",
+                "Ясмин Пейдж",
+                "Салли Хокинс",
+                "Даррен Эванс",
+                "Озиан Кай Дулаис",
+                "Лили МакКанн",
+                "Отис Ллойд",
+                "Элинор Кроули"
+            ],
+            "countries": [
+                "Великобритания",
+                "США"
+            ],
+            "genres": [
+                "Драма",
+                "Мелодрама",
+                "Комедия"
+            ],
+            "directors": [
+                "Ричард Айоади"
+            ],
+            "screenwriters": [
+                "Ричард Айоади",
+                "Джо Данторн"
+            ],
+            "producers": [
+                "Мэри Бурк",
+                "Марк Херберт",
+                "Энди Стебблинг"
+            ],
+            "operators": [
+                "Эрик Уилсон"
+            ],
+            "composers": [
+                "Эндрю Хьюит"
+            ],
+            "painters": [
+                "Гари Уильямсон",
+                "Сара Паскуали",
+                "Шарлотта Уолтер"
+            ],
+            "editors": [
+                "Крис Дикенс",
+                "Ник Фентон"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.4",
+            "rating_imdb": "7.3",
+            "kinopoisk_votes": null,
+            "imdb_votes": null,
+            "fees_world": "$864659",
+            "fees_russia": "$56580",
+            "premiere_world": "12 сентября 2010",
+            "premiere_russia": "1 сентября 2011",
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/1/4/5/kinopoisk.ru-Submarine-1457921.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/1/kinopoisk.ru-Submarine-1616735.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/4/kinopoisk.ru-Submarine-1642655.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1651533.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1651534.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1651535.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1651536.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1651537.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1651538.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1651539.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1651540.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1651541.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1652833.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1652834.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1652835.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1652836.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1652837.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1652838.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1652839.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1652840.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1654389.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1654390.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1654391.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1654392.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/6/5/kinopoisk.ru-Submarine-1654393.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/8/kinopoisk.ru-Submarine-2280471.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": [
+                    "/movie/4e7ddd7480d3b3b512b3789b9adab246/iframe"
+                ],
+                "quality": [
+                    "BluRay"
+                ],
+                "duration": null,
+                "voice": [
+                    "Профессиональный (многоголосый) [Лицензия]"
+                ]
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": [
+                    "/embed/movie/17587"
+                ],
+                "quality": [
+                    "HD (720p)"
+                ],
+                "duration": [
+                    "97 мин. / 01:37"
+                ],
+                "voice": [
+                    "R5",
+                    "Первый Канал",
+                    "Ozz",
+                    "Eng.Original",
+                    "Eng. Orig. with Commentary"
+                ]
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 378492,
+            "id_kinopoisk": 1044976,
+            "url": "142755-everest-2019",
+            "type": "movie",
+            "title": "Эверест",
+            "title_alternative": "Abominable",
+            "tagline": "«Поверь в волшебство»",
+            "description": "Неизвестный науке мохнатый зверь сбегает из лаборатории, оказывается посреди шумного мегаполиса и в панике прячется на крыше одного из домов. Вскоре там его обнаруживает школьница Лу и, поняв, что находка хоть и дикая, но вполне симпатичная и, скорее всего, волшебная, решает во чтобы то ни стало помочь животному спастись от злых учёных и вернуться домой в горы. За девушкой случайно увязываются два соседских паренька, и вот уже весёлая компания держит путь к самой высокой горной вершине  Эвересту.",
+            "year": 2019,
+            "poster": "//images.kinopoisk.cloud/posters/1044976.jpg",
+            "trailer": "https://www.youtube.com/embed/SBXKE04cySs",
+            "age": "зрителям, достигшим 6 лет",
+            "actors": [
+                "Хлоя Беннет",
+                "Альберт Цай",
+                "Тензинг Норгай Трэйнор",
+                "Джозеф Иццо",
+                "Эдди Иззард",
+                "Сара Полсон",
+                "Цай Чинь",
+                "Мишель Вонг",
+                "Рич Дитль",
+                "Джеймс Хун",
+                "Василиса Эльдарова",
+                "Владимир Войтюк",
+                "Филипп Лебедев",
+                "Анатолий Пашнин",
+                "Елена Шульман"
+            ],
+            "countries": [
+                "США",
+                "Китай"
+            ],
+            "genres": [
+                "Мультфильм",
+                "Фэнтези",
+                "Комедия",
+                "Приключения",
+                "Семейный"
+            ],
+            "directors": [
+                "Джилл Калтон",
+                "Тодд Вилдерман"
+            ],
+            "screenwriters": [
+                "Джилл Калтон"
+            ],
+            "producers": [
+                "Пейлин Чоу",
+                "Дейв Полски",
+                "Сюзанн Бёрги"
+            ],
+            "operators": [
+                "Роберт Эдвард Кроуфорд"
+            ],
+            "composers": [
+                "Руперт Грегсон-Уильямс"
+            ],
+            "painters": [
+                "Макс Боас",
+                "Пол Дункан"
+            ],
+            "editors": [
+                "Сьюзэн Фитцер"
+            ],
+            "budget": "$75000000",
+            "rating_kinopoisk": "7.4",
+            "rating_imdb": "7",
+            "kinopoisk_votes": null,
+            "imdb_votes": null,
+            "fees_world": "$189776004",
+            "fees_russia": "$11804224",
+            "premiere_world": "7 сентября 2019",
+            "premiere_russia": "3 октября 2019",
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/3/3/6/kinopoisk.ru-Abominable-3368201.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/6/kinopoisk.ru-Abominable-3368202.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/3/kinopoisk.ru-Abominable-3435382.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/4/kinopoisk.ru-Abominable-3449327.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/4/kinopoisk.ru-Abominable-3449328.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/4/kinopoisk.ru-Abominable-3449329.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/4/kinopoisk.ru-Abominable-3449330.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/6/kinopoisk.ru-Abominable-3468826.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": [
+                    "/movie/40ee863a6143b58787bdebf9a456c654/iframe"
+                ],
+                "quality": [
+                    "4К",
+                    "WEB-DL",
+                    "TS",
+                    "TS",
+                    "TS"
+                ],
+                "duration": null,
+                "voice": [
+                    "Дубляж [Лицензия]",
+                    "Дубляж [Лицензия]",
+                    "Дубляж",
+                    "Дубляж",
+                    "den904"
+                ]
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": [
+                    "/embed/movie/9301"
+                ],
+                "quality": [
+                    "HD (720p)"
+                ],
+                "duration": [
+                    "97 мин. / 01:37"
+                ],
+                "voice": [
+                    "Рус. Дублированный",
+                    "Eng.Original"
+                ]
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 372463,
+            "id_kinopoisk": 1025671,
+            "url": "78273-on-i-ona-2016",
+            "type": "movie",
+            "title": "Он и Она",
+            "title_alternative": "Mr &amp; Mme Adelman",
+            "tagline": "«Любовь — это все что угодно, только не скука»",
+            "description": "Виктор  начинающий писатель, Сара  магистр в области классической литературы, их общая слабость  Джойс и Достоевский. Они были свободны и беспечны, но их случайная встреча в баре затянется на долгие 45 лет. Как справятся они с успехом, богатством и банальной скукой? Кто получит все, а кто останется в тени? История одной семьи, большой любви, на фоне переполненных солнцем бульваров Парижа.",
+            "year": 2016,
+            "poster": "//images.kinopoisk.cloud/posters/1025671.jpg",
+            "trailer": "https://www.youtube.com/embed/ANAZr0At_ZY",
+            "age": "зрителям, достигшим 18 лет",
+            "actors": [
+                "Дория Тилье",
+                "Николя Бедос",
+                "Дени Подалидес",
+                "Антуан Гуи",
+                "Кристиана Милле",
+                "Пьер Ардити",
+                "Забу Брайтман",
+                "Жюльен Буасселье",
+                "Жан-Пьер Лори",
+                "Жак Ланг",
+                "Регина Щукина",
+                "Дмитрий Стрелков",
+                "Вадим Прохоров",
+                "Юлия Рудина",
+                "Роман Сопко"
+            ],
+            "countries": [
+                "Франция",
+                "Бельгия"
+            ],
+            "genres": [
+                "Комедия",
+                "Мелодрама"
+            ],
+            "directors": [
+                "Николя Бедос"
+            ],
+            "screenwriters": [
+                "Николя Бедос",
+                "Дория Тилье"
+            ],
+            "producers": [
+                "Франсуа Краус",
+                "Дени Пино-Валенсьенн",
+                "Надя Хамлиши"
+            ],
+            "operators": [
+                "Николя Больдюк"
+            ],
+            "composers": [
+                "Николя Бедос",
+                "Филипп Келли"
+            ],
+            "painters": [
+                "Стефани Розенбаум",
+                "Карен Мюллер Серро",
+                "Самир Мунди"
+            ],
+            "editors": [
+                "Анни Данш"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.4",
+            "rating_imdb": "7.3",
+            "kinopoisk_votes": null,
+            "imdb_votes": null,
+            "fees_world": "$2796077",
+            "fees_russia": "$264275сборы",
+            "premiere_world": "8 марта 2017",
+            "premiere_russia": "15 июня 2017",
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951255.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951256.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951257.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951258.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951259.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951260.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951261.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951262.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951263.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951264.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951265.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951266.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951267.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951268.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951269.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951270.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951271.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951272.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951273.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951274.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951275.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951276.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951277.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951278.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951279.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951280.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951281.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951282.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951283.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951284.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951285.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951286.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951287.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951288.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951289.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951290.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951291.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951292.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951293.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951294.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951295.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951296.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951297.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951298.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951299.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951300.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951301.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951302.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951303.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951304.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951305.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951306.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951307.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951308.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951309.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951310.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951311.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951312.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951313.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951314.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951315.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951316.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951317.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951318.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951319.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951320.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951321.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951322.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951323.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951324.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951325.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951326.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951327.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951328.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951329.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951330.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951331.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951332.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951333.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951334.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/9/5/kinopoisk.ru-Mr-_26amp_3B-Mme-Adelman-2951335.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": [
+                    "/movie/6c94ae0dd46b4e6a0167c9203e68a55f/iframe"
+                ],
+                "quality": [
+                    "BluRay"
+                ],
+                "duration": null,
+                "voice": [
+                    "Дубляж [Лицензия]"
+                ]
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": [
+                    "/embed/movie/5237"
+                ],
+                "quality": [
+                    "HD (720p)"
+                ],
+                "duration": [
+                    "120 мин. / 02:00"
+                ],
+                "voice": [
+                    "Рус. Дублированный"
+                ]
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 372092,
+            "id_kinopoisk": 1009413,
+            "url": "349594-leto-2018",
+            "type": "movie",
+            "title": "Лето",
+            "title_alternative": null,
+            "tagline": null,
+            "description": "Фильм рассказывает о самом начале творческого пути Виктора Цоя и группы «Кино», о его взаимоотношениях с Майком Науменко, его женой Натальей и многими, кто был в авангарде рок-движения Ленинграда 1981 года. Это история о Ленинграде 80-х, о любви, поисках и больших надеждах  о настроении, которое останется с нами навсегда.",
+            "year": 2018,
+            "poster": "//images.kinopoisk.cloud/posters/1009413.jpg",
+            "trailer": "https://www.youtube.com/embed/TvAbtsQKrHA",
+            "age": "зрителям, достигшим 18 лет",
+            "actors": [
+                "Рома Зверь",
+                "Ирина Старшенбаум",
+                "Тео Ю",
+                "Филипп Авдеев",
+                "Евгений Серзин",
+                "Александр Горчилин",
+                "Василий Михайлов",
+                "Александр Кузнецов",
+                "Никита Ефремов",
+                "Герман Осипов",
+                "Денис Клявер",
+                "Пётр Погодаев"
+            ],
+            "countries": [
+                "Россия"
+            ],
+            "genres": [
+                "Биография",
+                "Музыка",
+                "Драма"
+            ],
+            "directors": [
+                "Кирилл Серебренников"
+            ],
+            "screenwriters": [
+                "Михаил Идов",
+                "Лили Идова",
+                "Кирилл Серебренников"
+            ],
+            "producers": [
+                "Илья Стюарт",
+                "Мурад Османн",
+                "Михаил Финогенов"
+            ],
+            "operators": [
+                "Владислав Опельянц"
+            ],
+            "composers": [
+                "Рома Зверь",
+                "Герман Осипов"
+            ],
+            "painters": [
+                "Андрей Понкратов",
+                "Татьяна Долматовская"
+            ],
+            "editors": [
+                "Юрий Карих"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.4",
+            "rating_imdb": "7.4",
+            "kinopoisk_votes": null,
+            "imdb_votes": null,
+            "fees_world": "$3071812",
+            "fees_russia": "$1442228сборы",
+            "premiere_world": "9 мая 2018",
+            "premiere_russia": "7 июня 2018",
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/3/1/2/kinopoisk.ru-Leto-3121187.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/1/2/kinopoisk.ru-Leto-3121188.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/1/9/kinopoisk.ru-Leto-3192657.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/1/9/kinopoisk.ru-Leto-3199942.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/1/9/kinopoisk.ru-Leto-3199943.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/1/9/kinopoisk.ru-Leto-3199944.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/1/9/kinopoisk.ru-Leto-3199945.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/1/9/kinopoisk.ru-Leto-3199946.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": [
+                    "/movie/88eb4c9451b2c1ecd0d5be242ede837c/iframe"
+                ],
+                "quality": [
+                    "WEB-DL"
+                ],
+                "duration": null,
+                "voice": [
+                    "Не требуется"
+                ]
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": [
+                    "/embed/movie/1330"
+                ],
+                "quality": [
+                    "HD (720p)"
+                ],
+                "duration": [
+                    "126 мин. / 02:06"
+                ],
+                "voice": [
+                    "Рус. Оригинальный"
+                ]
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 371397,
+            "id_kinopoisk": 1008170,
+            "url": "496819-ya-bolt-2016",
+            "type": "movie",
+            "title": "Я – Болт",
+            "title_alternative": "I Am Bolt",
+            "tagline": null,
+            "description": "Усэйн Болт  единственный в мире спортсмен, выигравший спринтерские дистанции на трех Олимпийских играх подряд. Ему рукоплескали Пекин, Лондон и Рио. За свою пока еще продолжающуюся спортивную карьеру Болт установил 8 мировых рекордов и стал главным ямайским спринтером всех времен. Режиссеры Бенджамин и Гейб Тернер представляют захватывающий микс из трансляций и архивных кадров, которые со всей полнотой расскажут о том, что за человек Усэйн Болт и как ему дались все его огромные заслуги перед родиной и спортом. Этот фильм показывает Болта не только глазами его восхищенных товарищей  не менее великих спортсменов. Кое-что ямайский спринтер поведает о себе сам, оставляя, впрочем, больше загадок и вопросов, чем ответов. Оказывается, дома он очень любит поваляться на диване с пивом и чипсами, что не мешает ему собрать волю в кулак и в очередной раз стать лучшим из лучших.",
+            "year": 2016,
+            "poster": "//images.kinopoisk.cloud/posters/1008170.jpg",
+            "trailer": "https://www.youtube.com/embed/GxTtU0uOJ0E",
+            "age": null,
+            "actors": [
+                "Усэйн Болт",
+                "Пеле",
+                "Неймар",
+                "Серена Уильямс",
+                "Asafa Powell",
+                "Себастьян Коу",
+                "Зигги Марли",
+                "Нас",
+                "Chronixx",
+                "Йохан Блейк"
+            ],
+            "countries": [
+                "Великобритания"
+            ],
+            "genres": [
+                "Документальный",
+                "Биография",
+                "Спорт"
+            ],
+            "directors": [
+                "Бенжамин Тернер",
+                "Гейб Тернер"
+            ],
+            "screenwriters": null,
+            "producers": [
+                "Лео Перлман",
+                "Rob Davies",
+                "Хезер Гринвуд"
+            ],
+            "operators": [
+                "Патрик Смит"
+            ],
+            "composers": [
+                "Йен Эрбер"
+            ],
+            "painters": null,
+            "editors": [
+                "Пол Монахэн",
+                "Joe Williams"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.4",
+            "rating_imdb": "7.1",
+            "kinopoisk_votes": null,
+            "imdb_votes": null,
+            "fees_world": null,
+            "fees_russia": null,
+            "premiere_world": "28 ноября 2016",
+            "premiere_russia": null,
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/2/8/7/kinopoisk.ru-I-Am-Bolt-2873627.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/8/7/kinopoisk.ru-I-Am-Bolt-2873628.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/8/7/kinopoisk.ru-I-Am-Bolt-2873629.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/8/7/kinopoisk.ru-I-Am-Bolt-2873630.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": [
+                    "/movie/a737a92468c13049746d12e05ebb8ca0/iframe"
+                ],
+                "quality": [
+                    "BluRay"
+                ],
+                "duration": null,
+                "voice": [
+                    "одноголосый закадровый"
+                ]
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": [
+                    "/embed/movie/1662"
+                ],
+                "quality": [
+                    "HD (720p)"
+                ],
+                "duration": [
+                    "107 мин. / 01:47"
+                ],
+                "voice": [
+                    "Рус. Одноголосый",
+                    "Eng.Original"
+                ]
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 367124,
+            "id_kinopoisk": 991632,
+            "url": "237231-taynaya-zhizn-2019",
+            "type": "movie",
+            "title": "Тайная жизнь",
+            "title_alternative": "A Hidden Life",
+            "tagline": null,
+            "description": "История символа австрийского сопротивления, Франца Егерштеттера, отказавшегося сражаться за нацистов во Второй мировой войне. Когда Франц сталкивается с угрозой казни за измену, несмотря на многочисленные возможности ее избежать, он продолжает отстаивать свои убеждения, опираясь на веру и любовь своей семьи.",
+            "year": 2019,
+            "poster": "//images.kinopoisk.cloud/posters/991632.jpg",
+            "trailer": "https://www.youtube.com/embed/xCIzONgQ_SU",
+            "age": "зрителям, достигшим 16 лет",
+            "actors": [
+                "Аугуст Диль",
+                "Валери Пахнер",
+                "Мария Зимон",
+                "Карин Нойхаузер",
+                "Тобиас Моретти",
+                "Ульрих Маттес",
+                "Маттиас Шонартс",
+                "Франц Роговский",
+                "Карл Маркович",
+                "Бруно Ганц"
+            ],
+            "countries": [
+                "США",
+                "Великобритания",
+                "Германия"
+            ],
+            "genres": [
+                "Драма",
+                "Военный",
+                "Биография",
+                "История"
+            ],
+            "directors": [
+                "Терренс Малик"
+            ],
+            "screenwriters": [
+                "Терренс Малик"
+            ],
+            "producers": [
+                "Элизабет Бентли",
+                "Дарио Берджесио",
+                "Мэтт Билски"
+            ],
+            "operators": [
+                "Йорг Видмер"
+            ],
+            "composers": [
+                "Джеймс Ньютон Ховард"
+            ],
+            "painters": [
+                "Себастьян Т. Кравинкель",
+                "Стив Саммерсгилл",
+                "Брайс Тибби"
+            ],
+            "editors": [
+                "Реман Низар Али",
+                "Joe Gleason",
+                "Себастьян Джонс"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.4",
+            "rating_imdb": "7.4",
+            "kinopoisk_votes": null,
+            "imdb_votes": null,
+            "fees_world": "$4125989",
+            "fees_russia": null,
+            "premiere_world": "19 мая 2019",
+            "premiere_russia": "19 марта 2020",
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/2/9/1/kinopoisk.ru-A-Hidden-Life-2914016.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/6/kinopoisk.ru-A-Hidden-Life-3367140.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/6/kinopoisk.ru-A-Hidden-Life-3367141.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/6/kinopoisk.ru-A-Hidden-Life-3367142.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/3/6/kinopoisk.ru-A-Hidden-Life-3367143.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/3/kinopoisk.ru-A-Hidden-Life-3433527.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/3/kinopoisk.ru-A-Hidden-Life-3433528.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/3/kinopoisk.ru-A-Hidden-Life-3433529.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/3/kinopoisk.ru-A-Hidden-Life-3433530.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/3/kinopoisk.ru-A-Hidden-Life-3433531.jpg",
+                "https://st.kp.yandex.net/im/kadr/3/4/3/kinopoisk.ru-A-Hidden-Life-3433532.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": [
+                    "/movie/b43e5cb11b542fa2398383bef16db61f/iframe"
+                ],
+                "quality": [
+                    "BDRip",
+                    "WEB-DL",
+                    "DVDScr"
+                ],
+                "duration": null,
+                "voice": [
+                    "Дубляж [Лицензия]",
+                    "многоголосый закадровый",
+                    "многоголосый закадровый"
+                ]
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": [
+                    "/embed/movie/15756"
+                ],
+                "quality": [
+                    "HD (720p)"
+                ],
+                "duration": [
+                    "174 мин. / 02:54"
+                ],
+                "voice": [
+                    "Рус. Проф. многоголосый",
+                    "HDRezka Studio",
+                    "Eng.Original"
+                ]
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        }
+    ],
+    "pagination": {
+        "current_page": "https://cloud-api.kinopoisk.dev/movies/all/page/666/token/7fae10ba36f44ad9dfe1919fe8a45c89",
+        "end_page": "https://cloud-api.kinopoisk.dev/movies/all/page/59896/token/7fae10ba36f44ad9dfe1919fe8a45c89",
+        "total_pages": 59896
+    }
+}
+{
+    "movies": [
+        {
+            "id": 431388,
+            "id_kinopoisk": 748093,
+            "url": "557055-bessmertnyy-2012",
+            "type": "movie",
+            "title": "Бессмертный",
+            "title_alternative": null,
+            "tagline": null,
+            "description": "Когда-то жили два друга  Нисан и Немурум. Однажды Нисан тяжело заболел и умер. После этого Немурум, впервые всерьёз задумавшийся о смерти, отправляется на поиски страны, где никто не умирает",
+            "year": 2012,
+            "poster": "//images.kinopoisk.cloud/posters/748093.jpg",
+            "trailer": "https://www.youtube.com/embed/BhNg5Vw_QvU",
+            "age": null,
+            "actors": [
+                "Юлия Рутберг",
+                "Александр Леньков"
+            ],
+            "countries": [
+                "Россия"
+            ],
+            "genres": [
+                "Короткометражка",
+                "Мультфильм"
+            ],
+            "directors": [
+                "Михаил Алдашин"
+            ],
+            "screenwriters": [
+                "Михаил Алдашин",
+                "Александр Татарский"
+            ],
+            "producers": [
+                "Игорь Гелашвили"
+            ],
+            "operators": null,
+            "composers": [
+                "Александр Гусев",
+                "Лев Землинский"
+            ],
+            "painters": [
+                "Михаил Алдашин"
+            ],
+            "editors": [
+                "Людмила Коптева"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.77",
+            "rating_imdb": null,
+            "kinopoisk_votes": "180",
+            "imdb_votes": null,
+            "fees_world": null,
+            "fees_russia": null,
+            "premiere_world": "29 мая 2013",
+            "premiere_russia": null,
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/2/2/2/kinopoisk.ru-Bessmertniy-2227351.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/2/kinopoisk.ru-Bessmertniy-2227352.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/2/kinopoisk.ru-Bessmertniy-2227353.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/4/1/kinopoisk.ru-Bessmertniy-2416678.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 194277,
+            "id_kinopoisk": 225971,
+            "url": "393038-eda-1992",
+            "type": "movie",
+            "title": "Еда",
+            "title_alternative": "Jídlo",
+            "tagline": null,
+            "description": null,
+            "year": 1992,
+            "poster": "//images.kinopoisk.cloud/posters/225971.jpg",
+            "trailer": null,
+            "age": null,
+            "actors": [
+                "Людвик Сваб",
+                "Бедрич Глейсер",
+                "Ян Краус",
+                "Павел Марек",
+                "Джозеф Фиала",
+                "Карел Хамр",
+                "Яромир Каллиста",
+                "David Lhotak",
+                "Вацлав Ливора",
+                "Мари Земанова"
+            ],
+            "countries": [
+                "Великобритания",
+                "Чехия"
+            ],
+            "genres": [
+                "Короткометражка",
+                "Фэнтези",
+                "Комедия"
+            ],
+            "directors": [
+                "Ян Шванкмайер"
+            ],
+            "screenwriters": [
+                "Ян Шванкмайер"
+            ],
+            "producers": [
+                "Яромир Каллиста",
+                "Кит Гриффитс",
+                "Майкл Хавас"
+            ],
+            "operators": [
+                "Святоплук Малы"
+            ],
+            "composers": null,
+            "painters": [
+                "Ян Шванкмайер"
+            ],
+            "editors": [
+                "Мари Земанова"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.77",
+            "rating_imdb": "8.1",
+            "kinopoisk_votes": "2168",
+            "imdb_votes": "2691",
+            "fees_world": null,
+            "fees_russia": null,
+            "premiere_world": "11 сентября 1993",
+            "premiere_russia": null,
+            "frames": null,
+            "screenshots": null,
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 122658,
+            "id_kinopoisk": 841807,
+            "url": "527034-bratya-2015",
+            "type": "movie",
+            "title": "Братья",
+            "title_alternative": "Brothers",
+            "tagline": null,
+            "description": "Драматическая история двух братьев, пути которых разошлись из-за трагических обстоятельств.",
+            "year": 2015,
+            "poster": "//images.kinopoisk.cloud/posters/841807.jpg",
+            "trailer": "https://www.youtube.com/embed/QuRSCU0tOKs",
+            "age": null,
+            "actors": [
+                "Акшай Кумар",
+                "Сидхарт Мальхотра",
+                "Джеки Шрофф",
+                "Жаклин Фернандес",
+                "Мегхан Джадхав",
+                "Шефали Шетти",
+                "Киран Кумар",
+                "Ашутош Рана",
+                "Кулбхушан Харбанда",
+                "Ashok Lokhande"
+            ],
+            "countries": [
+                "Индия",
+                "США"
+            ],
+            "genres": [
+                "Боевик",
+                "Драма",
+                "Спорт"
+            ],
+            "directors": [
+                "Каран Мальхотра"
+            ],
+            "screenwriters": [
+                "Экта Патхак Малхотра",
+                "Ситхарт Сингх",
+                "Гарима"
+            ],
+            "producers": [
+                "Хироо Джохар",
+                "Каран Джохар",
+                "Somesh Shivraj Chounde"
+            ],
+            "operators": [
+                "Хемант Чатурведи"
+            ],
+            "composers": [
+                "Аджай Гогавале",
+                "Атул Гогавале"
+            ],
+            "painters": [
+                "Mandar Nagaonkar",
+                "Суреш Селвараджан",
+                "Мандира Шукла"
+            ],
+            "editors": [
+                "Акив Али"
+            ],
+            "budget": "$10205000",
+            "rating_kinopoisk": "7.77",
+            "rating_imdb": "6.5",
+            "kinopoisk_votes": "581",
+            "imdb_votes": "10986",
+            "fees_world": "$17857939",
+            "fees_russia": null,
+            "premiere_world": "13 августа 2015",
+            "premiere_russia": null,
+            "frames": null,
+            "screenshots": null,
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 560192,
+            "id_kinopoisk": 260258,
+            "url": "409565-kak-kazaki-inoplanetyan-vstrechali-1987",
+            "type": "movie",
+            "title": "Как казаки инопланетян встречали",
+            "title_alternative": null,
+            "tagline": null,
+            "description": "Мультфильм о встрече казаков с инопланетянами. В этой серии на казаков падает летающая тарелка. Забавные маленькие инопланетяне даже немного похожи на самих казаков",
+            "year": 1987,
+            "poster": "//images.kinopoisk.cloud/posters/260258.jpg",
+            "trailer": null,
+            "age": "зрителям, достигшим 6 лет",
+            "actors": null,
+            "countries": [
+                "СССР"
+            ],
+            "genres": [
+                "Мультфильм",
+                "Короткометражка"
+            ],
+            "directors": [
+                "Владимир Дахно"
+            ],
+            "screenwriters": [
+                "Александр Костинский",
+                "Владимир Васьковцев",
+                "Владимир Дахно"
+            ],
+            "producers": null,
+            "operators": [
+                "Анатолий Гаврилов"
+            ],
+            "composers": [
+                "Владимир Губа"
+            ],
+            "painters": [
+                "Иван Будз"
+            ],
+            "editors": [
+                "О. Педан"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.769",
+            "rating_imdb": "7.5",
+            "kinopoisk_votes": "6386",
+            "imdb_votes": "152",
+            "fees_world": null,
+            "fees_russia": null,
+            "premiere_world": null,
+            "premiere_russia": null,
+            "frames": null,
+            "screenshots": [
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166258.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166259.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166260.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166261.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166262.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166263.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166264.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166265.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166266.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166267.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166268.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166269.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166270.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166271.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/1/6/kinopoisk.ru-Kak-kazaki-inoplanetyan-vstrechali-1166272.jpg"
+            ],
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 556452,
+            "id_kinopoisk": 141478,
+            "url": "449691-noch-na-galakticheskoy-zheleznoy-doroge-1985",
+            "type": "movie",
+            "title": "Ночь на Галактической железной дороге",
+            "title_alternative": "Ginga-tetsudô no yoru",
+            "tagline": null,
+            "description": "Джованни родом из бедной семьи. Его мать больна, отец пропал, а сам он за гроши разносит газеты. В день Фестиваля Звёзд он отправился за молоком для матери, но устал и заснул на холме. Проснулся Джованни от шума поезда, который спустился к нему с неба. Загадочным образом его перенесло внутрь состава, где он сразу же увидел своего старого друга, Кампанеллу. Внезапно поезд тронулся, взмыл в небо и отправился в путешествие по звёздам. Но где конечная станция? Кто эти странные пассажиры? Как у Джованни оказался билет, и что здесь делает Кампанелла?",
+            "year": 1985,
+            "poster": "//images.kinopoisk.cloud/posters/141478.jpg",
+            "trailer": "https://www.youtube.com/embed/7y6tkOyR4T0",
+            "age": null,
+            "actors": [
+                "Маюми Танака",
+                "Тика Сакамото",
+                "Дзюнко Хори",
+                "Ayumi Ishijo",
+                "Каори Накахара",
+                "Ёсиэ Симамура",
+                "Сюн Ясиро",
+                "Рэйко Ниимура",
+                "Тикао Оцука",
+                "Хидэхиро Кикути"
+            ],
+            "countries": [
+                "Япония"
+            ],
+            "genres": [
+                "Аниме",
+                "Мультфильм",
+                "Фэнтези",
+                "Драма"
+            ],
+            "directors": [
+                "Гисабуро Сугии",
+                "Арлен Тарлофски"
+            ],
+            "screenwriters": [
+                "Minoru Betsuyaku",
+                "Кэндзи Миядзава",
+                "Хироши Масумура"
+            ],
+            "producers": [
+                "Масато Хара",
+                "Ацуми Тасиро",
+                "Джон О’Доннелл"
+            ],
+            "operators": [
+                "Ясуо Маеда"
+            ],
+            "composers": [
+                "Харуоми Хосоно"
+            ],
+            "painters": [
+                "Mihoko Magoori"
+            ],
+            "editors": [
+                "Масаси Фурукава"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.769",
+            "rating_imdb": "7.1",
+            "kinopoisk_votes": "869",
+            "imdb_votes": "1484",
+            "fees_world": null,
+            "fees_russia": null,
+            "premiere_world": "13 июля 1985",
+            "premiere_russia": null,
+            "frames": null,
+            "screenshots": [
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064720.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064721.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064722.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064723.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064724.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064725.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064726.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064727.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064728.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064729.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064730.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064731.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064732.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064733.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064734.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064735.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064736.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064737.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064738.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064739.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064740.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064741.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064742.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064743.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064744.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064745.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064746.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064747.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064748.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064749.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064750.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064751.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064752.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064753.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064754.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064755.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064756.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064757.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064758.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064759.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064760.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064761.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064762.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064763.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064764.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064765.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064766.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064767.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064768.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064769.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064770.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064771.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064772.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064773.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064774.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064775.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064776.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064777.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064778.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064779.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064780.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064781.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064782.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/6/kinopoisk.ru-Ginga-tetsud_26ocirc_3B-no-yoru-1064783.jpg"
+            ],
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 553308,
+            "id_kinopoisk": 164767,
+            "url": "581222-zhizn-kurtizanki-oharu-1952",
+            "type": "movie",
+            "title": "Жизнь куртизанки Охару",
+            "title_alternative": "Saikaku ichidai onna",
+            "tagline": null,
+            "description": "В XVII веке молодая девушка изгнана со службы из дворца за то, что посмела ответить на ухаживания мужчины более низкого общественного положения. После долгих злоключений, она проходит путь от наложницы до уличной проститутки.",
+            "year": 1952,
+            "poster": "//images.kinopoisk.cloud/posters/164767.jpg",
+            "trailer": "https://www.youtube.com/embed/VY9gkxegZh0",
+            "age": null,
+            "actors": [
+                "Кинуё Танака",
+                "Цукиэ Мацуура",
+                "Итиро Сугаи",
+                "Тосиро Мифунэ",
+                "Тосиаки Коноэ",
+                "Киёко Цудзи",
+                "Хисако Яманэ",
+                "Дзюкити Уно",
+                "Эйтаро Синдо",
+                "Акира Оидзуми"
+            ],
+            "countries": [
+                "Япония"
+            ],
+            "genres": [
+                "Драма"
+            ],
+            "directors": [
+                "Кэндзи Мидзогути"
+            ],
+            "screenwriters": [
+                "Кэндзи Мидзогути",
+                "Ёсиката Ёда",
+                "Сайкаку Ихара"
+            ],
+            "producers": [
+                "Хидэо Кои",
+                "Кэндзи Мидзогути",
+                "Исаму Ёсидзи"
+            ],
+            "operators": [
+                "Ёсими Хирано"
+            ],
+            "composers": [
+                "Итиро Саито"
+            ],
+            "painters": [
+                "Хироси Мидзутани"
+            ],
+            "editors": [
+                "Тосио Гото"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.769",
+            "rating_imdb": "8.2",
+            "kinopoisk_votes": "716",
+            "imdb_votes": "5652",
+            "fees_world": null,
+            "fees_russia": null,
+            "premiere_world": "17 апреля 1952",
+            "premiere_russia": null,
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/1/9/0/kinopoisk.ru-Saikaku-ichidai-onna-1907561.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/0/kinopoisk.ru-Saikaku-ichidai-onna-1907562.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/0/kinopoisk.ru-Saikaku-ichidai-onna-1907563.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/0/kinopoisk.ru-Saikaku-ichidai-onna-1907564.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/0/kinopoisk.ru-Saikaku-ichidai-onna-1907565.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/0/kinopoisk.ru-Saikaku-ichidai-onna-1907566.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/0/kinopoisk.ru-Saikaku-ichidai-onna-1907567.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/0/kinopoisk.ru-Saikaku-ichidai-onna-1907568.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/0/kinopoisk.ru-Saikaku-ichidai-onna-1907569.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/9/0/kinopoisk.ru-Saikaku-ichidai-onna-1907570.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 546067,
+            "id_kinopoisk": 17099,
+            "url": "520213-malchik-kotoryy-hotel-byt-medvedem-2002",
+            "type": "movie",
+            "title": "Мальчик, который хотел быть медведем",
+            "title_alternative": "Drengen der ville gøre det umulige",
+            "tagline": null,
+            "description": "Однажды у полярной медведицы погибает малыш-медвежонок. Медведица готова умереть от горя. В тоже время у одной женщины рождается здоровый крепкий мальчик. Отец-медведь похищает у людей новорожденного и приносит к себе в логово.Мальчика воспитывает медведица, обучая его всем навыкам необходимым настоящему медведю, чтобы выжить: не простая задача для маленького мальчика. Женщина очень тяжело переживает потерю своего ребенка. Мужчина клянется вернуть малыша и убить медведя. Охота начинается",
+            "year": 2002,
+            "poster": "//images.kinopoisk.cloud/posters/17099.jpg",
+            "trailer": null,
+            "age": "для любой зрительской аудитории",
+            "actors": [
+                "Марлон Вильструп",
+                "Joachim Boje Helvang",
+                "Отто Бранденбург",
+                "Паприка Стеэн",
+                "Энн Клаузен",
+                "Томми Кентер",
+                "Томас Бо Ларсен",
+                "Сидсе Бабетт Кнудсен",
+                "Карла Дочерти",
+                "Клаус Рискьяр"
+            ],
+            "countries": [
+                "Дания",
+                "Франция"
+            ],
+            "genres": [
+                "Мультфильм",
+                "Семейный"
+            ],
+            "directors": [
+                "Янник Хаструп"
+            ],
+            "screenwriters": [
+                "Бент Халлер",
+                "Мишель Фесслер",
+                "Том Уэйлэнд"
+            ],
+            "producers": [
+                "Мари Бро",
+                "Дидье Брюннер",
+                "Джон О’Доннелл"
+            ],
+            "operators": null,
+            "composers": [
+                "Бруно Куле"
+            ],
+            "painters": [
+                "Bigita Faber"
+            ],
+            "editors": null,
+            "budget": null,
+            "rating_kinopoisk": "7.769",
+            "rating_imdb": "6.8",
+            "kinopoisk_votes": "122",
+            "imdb_votes": "365",
+            "fees_world": null,
+            "fees_russia": null,
+            "premiere_world": "18 декабря 2002",
+            "premiere_russia": null,
+            "frames": null,
+            "screenshots": null,
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 533423,
+            "id_kinopoisk": 58842,
+            "url": "87170-versiya-brauninga-1951",
+            "type": "movie",
+            "title": "Версия Браунинга",
+            "title_alternative": "The Browning Version",
+            "tagline": null,
+            "description": "Человеческая драма стареющего профессора латыни, которому изменяет жена с другим преподавателем его же колледжа. Профессора не любят и боятся его ученики, ему отказывают в заслуженной пенсии, а вместо любимой работы предлагают унизительный пост. Жена в лицо называет неудачником, и всю свою жизнь он считает полным провалом. Но однажды все меняется",
+            "year": 1951,
+            "poster": "//images.kinopoisk.cloud/posters/58842.jpg",
+            "trailer": "https://www.youtube.com/embed/fSqvtspQonw",
+            "age": null,
+            "actors": [
+                "Майкл Редгрейв",
+                "Джин Кент",
+                "Найджел Патрик",
+                "Уилфрид Хайд-Уайт",
+                "Брайан Смит",
+                "Билл Треверс",
+                "Рональд Ховард",
+                "Paul Medland",
+                "Иван Самсон",
+                "Жозефин Миддлтон"
+            ],
+            "countries": [
+                "Великобритания"
+            ],
+            "genres": [
+                "Драма"
+            ],
+            "directors": [
+                "Энтони Эсквит"
+            ],
+            "screenwriters": [
+                "Теренс Рэттиган"
+            ],
+            "producers": [
+                "Тедди Бейрд",
+                "Эрл Ст. Джон"
+            ],
+            "operators": [
+                "Десмонд Дикинсон"
+            ],
+            "composers": null,
+            "painters": [
+                "Кармен Диллон"
+            ],
+            "editors": [
+                "Джон Д. Гатридж"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.769",
+            "rating_imdb": "8.2",
+            "kinopoisk_votes": "347",
+            "imdb_votes": "4107",
+            "fees_world": null,
+            "fees_russia": null,
+            "premiere_world": "15 марта 1951",
+            "premiere_russia": null,
+            "frames": null,
+            "screenshots": [
+                "https://st.kp.yandex.net/im/kadr/2/2/5/kinopoisk.ru-The-Browning-Version-2251381.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/5/kinopoisk.ru-The-Browning-Version-2251382.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/5/kinopoisk.ru-The-Browning-Version-2251383.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/5/kinopoisk.ru-The-Browning-Version-2251384.jpg",
+                "https://st.kp.yandex.net/im/kadr/2/2/5/kinopoisk.ru-The-Browning-Version-2251385.jpg"
+            ],
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 520162,
+            "id_kinopoisk": 437392,
+            "url": "200407-ledyanoy-cvetok-2008",
+            "type": "movie",
+            "title": "Ледяной цветок",
+            "title_alternative": "Ssanghwajeom",
+            "tagline": null,
+            "description": "Монарх порабощенного Юаньской империей государства Корё выбрал и воспитал мальчиков для личной стражи, названной Конрёнве. С позволения короля стражники жили во дворце и всегда охраняли своего господина. Глава стражи Хон-рим пользовался особой благосклонностью короля, чем вызывал у королевы обиду и ревность. Тем временем отношения между Корё и Юань обострились. Император Юань под предлогом отсутствия у трона Корё законного наследника потребовал назначить наследным принцем двоюродного брата короля  Кёнвона. Король, невзирая на недовольство высокопоставленных чиновников, отверг это требование. Будучи неспособным на соитие с женщиной, он втайне повелел своему любовнику Хон-риму спать с королевой, дабы та смогла зачать дитя, которое позволило бы королю сохранить власть.",
+            "year": 2008,
+            "poster": "//images.kinopoisk.cloud/posters/437392.jpg",
+            "trailer": null,
+            "age": "зрителям, достигшим 16 лет",
+            "actors": [
+                "Чо Ин-сон",
+                "Чу Джин-мо",
+                "Сон Джи-хё",
+                "Щим Джи-хо",
+                "Лим Джу-хван",
+                "Сон Джун-ги",
+                "Но Мин-у",
+                "Ё Ук-хван",
+                "То Ён-гу",
+                "Ко Ин-бом"
+            ],
+            "countries": [
+                "Корея Южная"
+            ],
+            "genres": [
+                "История",
+                "Мелодрама",
+                "Драма"
+            ],
+            "directors": [
+                "Ю Ха"
+            ],
+            "screenwriters": [
+                "Ю Ха"
+            ],
+            "producers": [
+                "Ли Тхэ-хон"
+            ],
+            "operators": [
+                "Чхве Хён-ги"
+            ],
+            "composers": [
+                "Ким Джун-сок"
+            ],
+            "painters": [
+                "Ким Ги-чхоль"
+            ],
+            "editors": [
+                "Пак Кок-чи"
+            ],
+            "budget": "$10000000",
+            "rating_kinopoisk": "7.769",
+            "rating_imdb": "7.1",
+            "kinopoisk_votes": "3398",
+            "imdb_votes": "3516",
+            "fees_world": "$21336544",
+            "fees_russia": null,
+            "premiere_world": "30 декабря 2008",
+            "premiere_russia": null,
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876935.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876936.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876938.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876939.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876940.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876941.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876942.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876943.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876944.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876945.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876946.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876947.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876948.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876949.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876950.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876954.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876955.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876956.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876957.jpg",
+                "https://st.kp.yandex.net/im/kadr/8/7/6/kinopoisk.ru-Ssanghwajeom-876960.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862189.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862190.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862191.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862192.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862193.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862194.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862195.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862196.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862197.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862198.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862199.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862200.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862201.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862202.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862203.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862204.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862205.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862206.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862207.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862208.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862209.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862210.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862211.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862212.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1862213.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863418.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863686.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863687.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863688.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863689.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863690.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863691.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863692.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863693.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863694.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863695.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863696.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863697.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863698.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863699.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863700.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863701.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863702.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863703.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863704.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863705.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863706.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863707.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1863708.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1866190.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1866191.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1866192.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/8/6/kinopoisk.ru-Ssanghwajeom-1866193.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        },
+        {
+            "id": 516434,
+            "id_kinopoisk": 281123,
+            "url": "279579-prizrachnoe-schaste-2007",
+            "type": "movie",
+            "title": "Призрачное счастье",
+            "title_alternative": "Life Mein Kabhie Kabhiee",
+            "tagline": null,
+            "description": "Пятеро друзей, разъезжаясь после окончания колледжа, договариваются встретиться через пять лет и разрешить спор о том, чей выбранный путь оказался самым удачным в достижении цели и ощущении себя счастливым. Но как порой бывает обманчива внешняя оболочка человеческой судьбы",
+            "year": 2007,
+            "poster": "//images.kinopoisk.cloud/posters/281123.jpg",
+            "trailer": null,
+            "age": "зрителям, достигшим 16 лет",
+            "actors": [
+                "Афтаб Шивдасани",
+                "Дино Мореа",
+                "Анудж Савней",
+                "Наухид Сираси",
+                "Анджори Алагх",
+                "Радж Зутши",
+                "Коэль Пури",
+                "Никита Ананд",
+                "Уша Бачани",
+                "Мохниш Бехл"
+            ],
+            "countries": [
+                "Индия"
+            ],
+            "genres": [
+                "Триллер",
+                "Драма"
+            ],
+            "directors": [
+                "Викрам Бхатт"
+            ],
+            "screenwriters": [
+                "Маной Тьяги",
+                "Гириш Дхамиджа",
+                "Самир"
+            ],
+            "producers": [
+                "Гордхан Танвани",
+                "Эджей Ачария"
+            ],
+            "operators": [
+                "Правин Бхатт"
+            ],
+            "composers": [
+                "Лалит Пандит"
+            ],
+            "painters": [
+                "Аджай Верекар",
+                "Эшли Ребелло",
+                "Фалгуни Такоре"
+            ],
+            "editors": [
+                "Аариф Шейх"
+            ],
+            "budget": null,
+            "rating_kinopoisk": "7.769",
+            "rating_imdb": "5.9",
+            "kinopoisk_votes": "62",
+            "imdb_votes": "250",
+            "fees_world": null,
+            "fees_russia": null,
+            "premiere_world": "13 апреля 2007",
+            "premiere_russia": null,
+            "frames": [
+                "https://st.kp.yandex.net/im/kadr/1/0/9/kinopoisk.ru-Life-Mein-Kabhie-Kabhiee-1091277.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/9/kinopoisk.ru-Life-Mein-Kabhie-Kabhiee-1091278.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/9/kinopoisk.ru-Life-Mein-Kabhie-Kabhiee-1091279.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/9/kinopoisk.ru-Life-Mein-Kabhie-Kabhiee-1091280.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/9/kinopoisk.ru-Life-Mein-Kabhie-Kabhiee-1091281.jpg",
+                "https://st.kp.yandex.net/im/kadr/1/0/9/kinopoisk.ru-Life-Mein-Kabhie-Kabhiee-1091282.jpg"
+            ],
+            "screenshots": null,
+            "videocdn": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "hdvb": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "collapse": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            },
+            "kodik": {
+                "url": null,
+                "quality": null,
+                "duration": null,
+                "voice": null
+            }
+        }
+    ],
+    "pagination": {
+        "current_page": "https://cloud-api.kinopoisk.dev/movies/all/page/300/token/7fae10ba36f44ad9dfe1919fe8a45c89",
+        "end_page": "https://cloud-api.kinopoisk.dev/movies/all/page/59896/token/7fae10ba36f44ad9dfe1919fe8a45c89",
+        "total_pages": 59896
+    }
+}
