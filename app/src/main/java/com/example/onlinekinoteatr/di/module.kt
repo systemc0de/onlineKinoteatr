@@ -1,11 +1,11 @@
 package com.example.onlinekinoteatr.di
 
-import com.example.onlinekinoteatr.features.movie_screen.list.domain.model.MoviesInteractor
+import com.example.onlinekinoteatr.features.movie_screen.list.domain.MoviesInteractor
 import com.example.onlinekinoteatr.features.movie_screen.list.data.api.MoviesApi
 import com.example.onlinekinoteatr.features.movie_screen.list.data.api.MoviesRemoteSource
 import com.example.onlinekinoteatr.features.movie_screen.list.data.api.MoviesRepository
 import com.example.onlinekinoteatr.features.movie_screen.list.data.api.MoviesRepositoryImpl
-import com.example.onlinekinoteatr.features.movie_screen.list.ui.adapter.MoviesListViewModel
+import com.example.onlinekinoteatr.features.movie_screen.list.ui.MoviesListViewModel
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import org.koin.androidx.viewmodel.dsl.viewModel

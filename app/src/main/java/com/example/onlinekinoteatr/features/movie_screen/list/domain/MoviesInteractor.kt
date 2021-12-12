@@ -1,6 +1,7 @@
-package com.example.onlinekinoteatr.features.movie_screen.list.domain.model
+package com.example.onlinekinoteatr.features.movie_screen.list.domain
 
-import com.example.onlinecinema.base.attempt
+
+import com.example.onlinekinoteatr.base.attempt
 import com.example.onlinekinoteatr.features.movie_screen.list.data.api.MoviesRepository
 
 class MoviesInteractor (private val moviesRepository: MoviesRepository) {

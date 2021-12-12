@@ -5,11 +5,11 @@ import android.view.View
 import androidx.core.os.bundleOf
 import androidx.fragment.app.Fragment
 import by.kirich1409.viewbindingdelegate.viewBinding
-import com.example.onlinecinema.R
-import com.example.onlinecinema.base.loadImage
-import com.example.onlinecinema.databinding.FragmentMoviesCardBinding
-import com.example.onlinecinema.domain.model.MoviesDomainModel
-import com.example.onlinecinema.features.movies_player_screen.ui.MoviesPlayerFragment
+import com.example.onlinekinoteatr.R
+import com.example.onlinekinoteatr.base.loadImage
+import com.example.onlinekinoteatr.databinding.FragmentMoviesCardBinding
+import com.example.onlinekinoteatr.features.movie_player_screen.ui.MoviesPlayerFragment
+import com.example.onlinekinoteatr.features.movie_screen.list.domain.model.MoviesDomainModel
 
 class MoviesCardFragment : Fragment(R.layout.fragment_movies_card) {
 
@@ -35,10 +35,7 @@ class MoviesCardFragment : Fragment(R.layout.fragment_movies_card) {
                 movie.genres?.joinToString(separator = ", ")
             tvCardCountries.text = movie.countries?.joinToString(separator = ", ")
             tvCardDescription.text = movie.description
-            tvCardPremierRussia.text = movie.premiere_russia
-            tvCardPremierWorld.text = movie.premiere_world
-            tvCardRating.text = movie.rating
-            tvCardTitleAlternative.text = movie.title_alternative
+            tvCardRating.text = movie.raiting_kinopoisk
             tvCardYear.text = movie.year.toString()
             tbCardTitle.title = movie.title
 //            tbCardTitle2.text = movie.title

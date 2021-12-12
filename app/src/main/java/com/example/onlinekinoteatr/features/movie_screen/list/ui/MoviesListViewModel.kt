@@ -1,9 +1,9 @@
-package com.example.onlinekinoteatr.features.movie_screen.list.ui.adapter
+package com.example.onlinekinoteatr.features.movie_screen.list.ui
 
 import com.example.onlinekinoteatr.base.BaseViewModel
 import com.example.onlinekinoteatr.base.Event
 import com.example.onlinekinoteatr.base.SingleLiveEvent
-import com.example.onlinekinoteatr.features.movie_screen.list.domain.model.MoviesInteractor
+import com.example.onlinekinoteatr.features.movie_screen.list.domain.MoviesInteractor
 
 class MoviesListViewModel(private val moviesInteractor: MoviesInteractor) :
     BaseViewModel<ViewState>() {

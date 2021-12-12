@@ -1,7 +1,7 @@
-package com.example.onlinekinoteatr.features.movie_screen.list.ui.adapter
+package com.example.onlinekinoteatr.features.movie_screen.list.ui
 
 import com.example.onlinekinoteatr.base.Event
-import com.example.onlinekinoteatr.features.ui.movie_screen.list.domain.model.MoviesDomainModel
+import com.example.onlinekinoteatr.features.movie_screen.list.domain.model.MoviesDomainModel
 
 data class ViewState(
     val movies: List<MoviesDomainModel>,

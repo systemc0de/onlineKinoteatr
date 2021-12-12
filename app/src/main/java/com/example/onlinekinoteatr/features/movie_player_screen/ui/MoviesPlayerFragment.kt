@@ -1,10 +1,11 @@
 package com.example.onlinekinoteatr.features.movie_player_screen.ui
 
-import android.util.Log
 import androidx.core.os.bundleOf
 import androidx.fragment.app.Fragment
 import by.kirich1409.viewbindingdelegate.viewBinding
-import com.example.onlinekinoteatr.features.ui.movie_screen.list.domain.model.MoviesDomainModel
+import com.example.onlinekinoteatr.R
+import com.example.onlinekinoteatr.databinding.FragmentMoviesPlayerBinding
+import com.example.onlinekinoteatr.features.movie_screen.list.domain.model.MoviesDomainModel
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
 import com.google.android.exoplayer2.source.ProgressiveMediaSource
@@ -29,7 +30,7 @@ class MoviesPlayerFragment : Fragment(R.layout.fragment_movies_player) {
 
 
     private fun initializePlayer() {
-        Log.d("VIDEVA", movie.trailer!!)
+        //Log.d("VIDEVA", movie.trailer!!)
         exoPlayer = ExoPlayer.Builder(requireContext()).build().apply {
             viewBinding.pvMoviePlayer.player = this
             setMediaSource(buildMediaSource())

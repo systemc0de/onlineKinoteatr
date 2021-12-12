@@ -1,18 +1,18 @@
-package com.example.onlinecinema.features.movies_list_screen.ui
+package com.example.onlinekinoteatr.features.movie_screen.list.ui
 
 import android.os.Bundle
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ProgressBar
 import androidx.core.view.isVisible
 import androidx.fragment.app.Fragment
-import androidx.recyclerview.widget.RecyclerView
-import androidx.viewpager2.widget.ViewPager2
 import by.kirich1409.viewbindingdelegate.viewBinding
+import com.example.onlinekinoteatr.R
+import com.example.onlinekinoteatr.databinding.FragmentMoviesListBinding
+import com.example.onlinekinoteatr.features.movie_screen.detail.ui.MoviesCardFragment
+import com.example.onlinekinoteatr.features.movie_screen.list.ui.adapter.MoviesAdapter
 import org.koin.androidx.viewmodel.ext.android.viewModel
-import java.util.*
 
 class MoviesListFragment : Fragment(R.layout.fragment_movies_list) {
 

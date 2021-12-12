@@ -1,4 +1,4 @@
-package com.example.onlinekinoteatr.features.ui.movie_screen.list.domain.model
+package com.example.onlinekinoteatr.features.movie_screen.list.domain.model
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

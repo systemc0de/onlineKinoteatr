@@ -1,7 +1,7 @@
 package com.example.onlinekinoteatr.features.ui.movie_screen
 
 import com.example.onlinekinoteatr.features.ui.movie_screen.list.data.api.model.Movies
-import com.example.onlinekinoteatr.features.ui.movie_screen.list.domain.model.MoviesDomainModel
+import com.example.onlinekinoteatr.features.movie_screen.list.domain.model.MoviesDomainModel
 
 fun Movies.toDomain() = MoviesDomainModel(
     id = id,
