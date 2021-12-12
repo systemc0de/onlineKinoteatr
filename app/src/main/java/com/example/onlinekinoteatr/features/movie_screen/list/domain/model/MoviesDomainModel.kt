@@ -1,7 +1,7 @@
 package com.example.onlinekinoteatr.features.movie_screen.list.domain.model
 
 import android.os.Parcelable
-import kotlinx.android.parcel.Parcelize
+import kotlinx.parcelize.Parcelize
 
 @Parcelize
 data class MoviesDomainModel(
