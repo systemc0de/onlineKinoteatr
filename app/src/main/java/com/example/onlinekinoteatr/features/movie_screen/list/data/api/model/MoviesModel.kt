@@ -1,4 +1,4 @@
-package com.example.onlinekinoteatr.features.ui.movie_screen.list.data.api.model
+package com.example.onlinekinoteatr.features.movie_screen.list.data.api.model
 
 import com.google.gson.annotations.SerializedName
 

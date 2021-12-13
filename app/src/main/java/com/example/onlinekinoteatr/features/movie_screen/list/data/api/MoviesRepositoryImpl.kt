@@ -1,7 +1,7 @@
 package com.example.onlinekinoteatr.features.movie_screen.list.data.api
 
 import com.example.onlinekinoteatr.features.movie_screen.list.domain.model.MoviesDomainModel
-import com.example.onlinekinoteatr.features.ui.movie_screen.toDomain
+import com.example.onlinekinoteatr.features.movie_screen.list.data.toDomain
 
 class MoviesRepositoryImpl(
     private val moviesRemoteSource: MoviesRemoteSource,

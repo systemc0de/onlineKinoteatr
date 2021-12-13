@@ -42,8 +42,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:fitsSystemWindows="true"
+                android:foreground="@color/green_500"
                 android:scaleType="matrix"
-                android:foreground="@drawable/gradient"
                 android:src="@drawable/ic_baseline_image_not_supported_24"
                 app:layout_collapseMode="parallax" />
 
@@ -141,33 +141,6 @@
                         android:padding="16dp"
                         tools:text="Description" />
 
-                    <TextView
-                        android:id="@+id/tvCardPremierWorld"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:padding="16dp"
-                        tools:text="Premier_world" />
-
-                    <TextView
-                        android:id="@+id/tvCardPremierRussia"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:padding="16dp"
-                        tools:text="Premier_russia" />
-
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:padding="16dp"
-                        android:text="@string/Actors" />
-
-                    <androidx.recyclerview.widget.RecyclerView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:padding="16dp"
-                        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
-                        app:spanCount="2"
-                        tools:listitem="@layout/item_actor" />
 
 
                 </LinearLayout>
@@ -188,15 +161,17 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
         android:layout_marginTop="32dp"
-        android:text="Play Movie"
+        android:text="@string/play"
+        android:textAlignment="center"
         android:textAppearance="@style/Subtitle1"
         android:textColor="?attr/colorAccented"
-        app:icon="@drawable/ic_baseline_play_arrow_24"
+        app:backgroundTint="@color/green_500"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/cardMovieOverview" />
+        app:layout_constraintTop_toBottomOf="@+id/cardMovieOverview"
+        tools:ignore="RtlCompat" />
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
